@@ -230,14 +230,15 @@ nav .checkbtn {
         font-size: 20px;
     }
     nav ul li {
-        margin: 10px 5px;
+        margin: 30px 5px;
     }
     nav ul li a {
-        font-size: 10px;
+        font-size: 12px;
         padding: 5px 10px;
     }
     #check:checked~ul {
         top: 5%;
+        width: 100%;
     }
 }
 /*           end nav bar           */
