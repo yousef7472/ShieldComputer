@@ -237,8 +237,9 @@ nav .checkbtn {
         padding: 5px 10px;
     }
     #check:checked~ul {
-        top: 5%;
         width: 100%;
+        top: 5%;
+     
     }
 }
 /*           end nav bar           */
