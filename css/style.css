@@ -922,6 +922,8 @@ nav .checkbtn {
 .swiper-container {
     padding-top: 50px;
     margin: auto;
+    overflow:hidden;
+    position: relative;
 }
 }
 .h2 h2 {
