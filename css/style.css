@@ -916,6 +916,7 @@ nav .checkbtn {
     .container-comp .img {
         padding: 0px 0px 15px 0px;
 }
+}
 /*                            end computers                    */
 
 /*                            start swiper                    */
@@ -925,7 +926,7 @@ nav .checkbtn {
     overflow:hidden;
     position: relative;
 }
-}
+
 .h2 h2 {
     color: #F2212E;
     text-align: center;
