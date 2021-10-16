@@ -79,6 +79,7 @@ nav ul {
     margin: 3px 0px;
     display: -webkit-inline-box;
     float: right;
+    width: max-content;
 }
 
 nav ul li {
@@ -169,7 +170,7 @@ nav ul li a:hover {
 }
 /*    slider     */
 .swiper-container {
-    width: 100%;
+    overflow: hidden;
     padding-top: 50px;
     padding-bottom: 200px;
   }
